@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/testit-tms/adapters-swift",
       "state" : {
-        "revision" : "28377fdf21e0bb6f11380584855ad5e79d479591",
-        "version" : "0.0.1"
+        "revision" : "ab243f2be1fda141e88656f3aaa05aebd64fb958",
+        "version" : "0.0.3"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/testit-tms/api-client-swift",
       "state" : {
-        "revision" : "d40312df91faff0d696bf9a70187a83b99a5e5f0",
-        "version" : "0.1.2"
+        "revision" : "ad02677569e5067196ca4205bf9d9935800b9518",
+        "version" : "0.1.3"
       }
     }
   ],
