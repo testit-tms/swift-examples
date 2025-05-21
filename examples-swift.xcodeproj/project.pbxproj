@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		CE06781C2DDDB0BE00B73F2B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE06781B2DDDB0BE00B73F2B /* main.swift */; };
+		CE0678272DDDCBF300B73F2B /* testit-adapters-swift in Frameworks */ = {isa = PBXBuildFile; productRef = CE0678262DDDCBF300B73F2B /* testit-adapters-swift */; };
+		CE06782F2DDDE2D600B73F2B /* tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE06782E2DDDE2D600B73F2B /* tests.swift */; };
+		CE0678352DDDE47600B73F2B /* file.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE0678332DDDE47600B73F2B /* file.txt */; };
+		CE0678362DDDE47600B73F2B /* testit.properties in Resources */ = {isa = PBXBuildFile; fileRef = CE0678342DDDE47600B73F2B /* testit.properties */; };
+		CE06783B2DDDE65300B73F2B /* testit-adapters-swift in Frameworks */ = {isa = PBXBuildFile; productRef = CE06783A2DDDE65300B73F2B /* testit-adapters-swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,10 @@
 /* Begin PBXFileReference section */
 		CE0678182DDDB0BE00B73F2B /* examples-swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "examples-swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE06781B2DDDB0BE00B73F2B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE06782C2DDDE2D600B73F2B /* tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE06782E2DDDE2D600B73F2B /* tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests.swift; sourceTree = "<group>"; };
+		CE0678332DDDE47600B73F2B /* file.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = file.txt; sourceTree = "<group>"; };
+		CE0678342DDDE47600B73F2B /* testit.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = testit.properties; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +41,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE0678272DDDCBF300B73F2B /* testit-adapters-swift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0678292DDDE2D600B73F2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE06783B2DDDE65300B73F2B /* testit-adapters-swift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,7 +60,9 @@
 			isa = PBXGroup;
 			children = (
 				CE06781A2DDDB0BE00B73F2B /* examples-swift */,
+				CE06782D2DDDE2D600B73F2B /* tests */,
 				CE0678192DDDB0BE00B73F2B /* Products */,
+				CE0678392DDDE65300B73F2B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -50,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				CE0678182DDDB0BE00B73F2B /* examples-swift */,
+				CE06782C2DDDE2D600B73F2B /* tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,6 +81,23 @@
 				CE06781B2DDDB0BE00B73F2B /* main.swift */,
 			);
 			path = "examples-swift";
+			sourceTree = "<group>";
+		};
+		CE06782D2DDDE2D600B73F2B /* tests */ = {
+			isa = PBXGroup;
+			children = (
+				CE0678332DDDE47600B73F2B /* file.txt */,
+				CE0678342DDDE47600B73F2B /* testit.properties */,
+				CE06782E2DDDE2D600B73F2B /* tests.swift */,
+			);
+			path = tests;
+			sourceTree = "<group>";
+		};
+		CE0678392DDDE65300B73F2B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -78,9 +116,32 @@
 			dependencies = (
 			);
 			name = "examples-swift";
+			packageProductDependencies = (
+				CE0678262DDDCBF300B73F2B /* testit-adapters-swift */,
+			);
 			productName = "examples-swift";
 			productReference = CE0678182DDDB0BE00B73F2B /* examples-swift */;
 			productType = "com.apple.product-type.tool";
+		};
+		CE06782B2DDDE2D600B73F2B /* tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE0678302DDDE2D600B73F2B /* Build configuration list for PBXNativeTarget "tests" */;
+			buildPhases = (
+				CE0678282DDDE2D600B73F2B /* Sources */,
+				CE0678292DDDE2D600B73F2B /* Frameworks */,
+				CE06782A2DDDE2D600B73F2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = tests;
+			packageProductDependencies = (
+				CE06783A2DDDE65300B73F2B /* testit-adapters-swift */,
+			);
+			productName = tests;
+			productReference = CE06782C2DDDE2D600B73F2B /* tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -95,6 +156,9 @@
 					CE0678172DDDB0BE00B73F2B = {
 						CreatedOnToolsVersion = 15.1;
 					};
+					CE06782B2DDDE2D600B73F2B = {
+						CreatedOnToolsVersion = 15.1;
+					};
 				};
 			};
 			buildConfigurationList = CE0678132DDDB0BD00B73F2B /* Build configuration list for PBXProject "examples-swift" */;
@@ -106,14 +170,30 @@
 				Base,
 			);
 			mainGroup = CE06780F2DDDB0BD00B73F2B;
+			packageReferences = (
+				CE0678252DDDCBF300B73F2B /* XCRemoteSwiftPackageReference "adapters-swift" */,
+			);
 			productRefGroup = CE0678192DDDB0BE00B73F2B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				CE0678172DDDB0BE00B73F2B /* examples-swift */,
+				CE06782B2DDDE2D600B73F2B /* tests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CE06782A2DDDE2D600B73F2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE0678352DDDE47600B73F2B /* file.txt in Resources */,
+				CE0678362DDDE47600B73F2B /* testit.properties in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		CE0678142DDDB0BE00B73F2B /* Sources */ = {
@@ -121,6 +201,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE06781C2DDDB0BE00B73F2B /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE0678282DDDE2D600B73F2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CE06782F2DDDE2D600B73F2B /* tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +351,44 @@
 			};
 			name = Release;
 		};
+		CE0678312DDDE2D600B73F2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testit.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CE0678322DDDE2D600B73F2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = testit.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -284,7 +410,40 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		CE0678302DDDE2D600B73F2B /* Build configuration list for PBXNativeTarget "tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE0678312DDDE2D600B73F2B /* Debug */,
+				CE0678322DDDE2D600B73F2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CE0678252DDDCBF300B73F2B /* XCRemoteSwiftPackageReference "adapters-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/testit-tms/adapters-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CE0678262DDDCBF300B73F2B /* testit-adapters-swift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE0678252DDDCBF300B73F2B /* XCRemoteSwiftPackageReference "adapters-swift" */;
+			productName = "testit-adapters-swift";
+		};
+		CE06783A2DDDE65300B73F2B /* testit-adapters-swift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CE0678252DDDCBF300B73F2B /* XCRemoteSwiftPackageReference "adapters-swift" */;
+			productName = "testit-adapters-swift";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CE0678102DDDB0BD00B73F2B /* Project object */;
 }
