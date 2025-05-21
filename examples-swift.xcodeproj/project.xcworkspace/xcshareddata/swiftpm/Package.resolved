@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/testit-tms/adapters-swift",
       "state" : {
-        "revision" : "ab243f2be1fda141e88656f3aaa05aebd64fb958",
-        "version" : "0.0.3"
+        "revision" : "09bc688575a8d55c5d4413228c6ab19763c12c12",
+        "version" : "0.1.0"
       }
     },
     {

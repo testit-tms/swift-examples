@@ -4,7 +4,7 @@ import testit_adapters_swift
 // with adapterMode 2, each test class running in the separate isolated environment and produce it's own test-run.
 // use adapterMode 1 or 0 with provided testRunId for populating all test classes results in one testrun
 
-class ExampleTests: TestItTestCase {
+class ExampleTests: TestItXCTestCase {
     override func setUp() {
         super.setUp()
         print("User setup logic: Starting 1-second delay...")
