@@ -31,8 +31,7 @@ final class ci_examplesTests: TestItXCTestCase {
         print("Running testExampleOk")
         
         // attachments must be available for test bundle for read permission (add it to the test target)
-        let testBundle = Bundle(for: type(of: self))
-        let filePath = testBundle.path(forResource: "file", ofType: "txt")
+        let filePath = "file.txt"
 
         TestItContextBuilder()
             //.ExternalId("ext-123")
@@ -48,7 +47,7 @@ final class ci_examplesTests: TestItXCTestCase {
             .Parameters(["version": "1.0", "env": "staging"])
             .Labels([LabelEntity(name: "TestLabel")])
             // test result's attachments
-            .Attachments([filePath!])
+            .Attachments([filePath])
             .build(self)
         
         XCTAssertTrue(true)
