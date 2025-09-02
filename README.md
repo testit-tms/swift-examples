@@ -11,3 +11,9 @@ XCTest support only for now
 |----------|-----------|
 | 5.3      | 0.1.x     |
 | Cloud    | 0.1.x     |
+
+## Run tests
+
+```bash
+xcodebuild test -scheme tests -verbose
+```
