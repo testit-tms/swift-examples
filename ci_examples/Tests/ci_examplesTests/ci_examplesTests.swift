@@ -1,10 +1,18 @@
 import XCTest
+@testable import ci_examples
 import testit_adapters_swift
+
 
 // with adapterMode 2, each test class running in the separate isolated environment and produce it's own test-run.
 // use adapterMode 1 or 0 with provided testRunId for populating all test classes results in one testrun
 
-class ExampleTests: TestItXCTestCase {
+final class ci_examplesTests: TestItXCTestCase {
+    // XCTest Documentation
+    // https://developer.apple.com/documentation/xctest
+
+    // Defining Test Cases and Test Methods
+    // https://developer.apple.com/documentation/xctest/defining_test_cases_and_test_methods
+
     override func setUp() {
         super.setUp()
         print("User setup logic: Starting 1-second delay...")

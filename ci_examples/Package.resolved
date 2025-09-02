@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "adapters-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/testit-tms/adapters-swift",
+      "state" : {
+        "revision" : "56fe5082f112515757c8d219ceb77891e64635ba",
+        "version" : "0.3.3"
+      }
+    },
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Flight-School/AnyCodable",
+      "state" : {
+        "revision" : "862808b2070cd908cb04f9aafe7de83d35f81b05",
+        "version" : "0.6.7"
+      }
+    },
+    {
+      "identity" : "api-client-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/testit-tms/api-client-swift",
+      "state" : {
+        "revision" : "fb891ee2f1ff37c070140e7245459f5125acd738",
+        "version" : "0.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
