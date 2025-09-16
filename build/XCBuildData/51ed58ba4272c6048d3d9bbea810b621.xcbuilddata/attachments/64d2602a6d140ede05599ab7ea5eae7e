@@ -1,4 +1,0 @@
-module testit_adapters_swift {
-header "testit-adapters-swift-Swift.h"
-export *
-}

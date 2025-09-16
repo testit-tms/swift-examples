@@ -15,6 +15,7 @@ xcuserdata/
 .DS_Store
 logs
 .testit.properties
+Package.resolved
 
 ## Playgrounds
 timeline.xctimeline
