@@ -1,0 +1,4 @@
+module testit_api_client {
+header "testit-api-client-Swift.h"
+export *
+}

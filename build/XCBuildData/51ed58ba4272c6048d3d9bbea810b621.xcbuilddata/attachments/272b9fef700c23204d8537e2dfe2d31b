@@ -1,0 +1,220 @@
+{
+  "" : {
+    "const-values" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master.swiftconstvalues",
+    "dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master.d",
+    "diagnostics" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master.dia",
+    "emit-module-dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/testit-adapters-swift-master.swiftdeps"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Clients/ApiClient.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ApiClient.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ApiClient.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ApiClient.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Clients/TmsApiClient.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TmsApiClient.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TmsApiClient.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TmsApiClient.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/Adapter.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Adapter.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Adapter.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Adapter.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/AdapterConfig.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterConfig.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterConfig.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterConfig.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/AdapterMode.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterMode.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterMode.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterMode.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/AppProperties.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AppProperties.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AppProperties.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AppProperties.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/ClientConfiguration.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientConfiguration.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientConfiguration.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientConfiguration.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/ConfigManager.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ConfigManager.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ConfigManager.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ConfigManager.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/ExecutableTest.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTest.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTest.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTest.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Core/ThreadLocal.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadLocal.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadLocal.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadLocal.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Integration/TestItContext.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItContext.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItContext.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItContext.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Integration/TestItParams.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItParams.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItParams.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItParams.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Integration/TestItWriter.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItWriter.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItWriter.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItWriter.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Lifecycle/OverallLifecycleObserver.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/OverallLifecycleObserver.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/OverallLifecycleObserver.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/OverallLifecycleObserver.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Lifecycle/TestAdapterInitializer.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestAdapterInitializer.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestAdapterInitializer.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestAdapterInitializer.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Listener/AdapterListener.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterListener.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterListener.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterListener.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Listener/ListenerManager.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ListenerManager.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ListenerManager.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ListenerManager.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ClassContainer.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClassContainer.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClassContainer.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClassContainer.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ClientModels.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientModels.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientModels.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ClientModels.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/FixtureResult.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureResult.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureResult.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureResult.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ItemStage.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStage.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStage.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStage.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ItemStatus.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStatus.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStatus.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ItemStatus.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/Label.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Label.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Label.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Label.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/LinkItem.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkItem.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkItem.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkItem.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/LinkType.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkType.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkType.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/LinkType.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/MainContainer.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/MainContainer.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/MainContainer.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/MainContainer.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ResultWithAttachments.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithAttachments.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithAttachments.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithAttachments.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/ResultWithSteps.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithSteps.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithSteps.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultWithSteps.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/StepResult.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/StepResult.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/StepResult.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/StepResult.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Models/TestResultCommon.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestResultCommon.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestResultCommon.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestResultCommon.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/AdapterManager.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterManager.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterManager.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterManager.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/AdapterUtils.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterUtils.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterUtils.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/AdapterUtils.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/Converter.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Converter.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Converter.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Converter.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/ExecutableTestService.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTestService.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTestService.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ExecutableTestService.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/FixtureService.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureService.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureService.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/FixtureService.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/TestService.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestService.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestService.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestService.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Services/Utils.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Utils.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Storage/ResultStorage.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultStorage.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultStorage.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ResultStorage.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Storage/ThreadContext.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadContext.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadContext.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/ThreadContext.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/TestItXCTestCase.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItXCTestCase.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItXCTestCase.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/TestItXCTestCase.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Writers/HttpWriter.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/HttpWriter.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/HttpWriter.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/HttpWriter.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/Sources/Writers/Writer.swift" : {
+    "index-unit-output-path" : "/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Writer.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Writer.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/adapters-swift/build/testit-adapters-swift.build/Release/testit-adapters-swift.build/Objects-normal/arm64/Writer.o"
+  }
+}

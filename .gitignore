@@ -14,6 +14,7 @@ xcuserdata/
 *.dSYM
 .DS_Store
 logs
+.testit.properties
 
 ## Playgrounds
 timeline.xctimeline

@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master.swiftconstvalues",
+    "dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master.d",
+    "diagnostics" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master.dia",
+    "emit-module-dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master-emit-module.dia",
+    "swift-dependencies" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable-master.swiftdeps"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/Sources/AnyCodable/AnyCodable.swift" : {
+    "index-unit-output-path" : "/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyCodable.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/Sources/AnyCodable/AnyDecodable.swift" : {
+    "index-unit-output-path" : "/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyDecodable.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyDecodable.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyDecodable.o"
+  },
+  "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/Sources/AnyCodable/AnyEncodable.swift" : {
+    "index-unit-output-path" : "/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyEncodable.o",
+    "llvm-bc" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyEncodable.bc",
+    "object" : "/Users/user/Library/Developer/Xcode/DerivedData/examples-swift-aiymqzagxxuoplfmnvfcnohgouzn/SourcePackages/checkouts/AnyCodable/build/AnyCodable.build/Release/AnyCodable.build/Objects-normal/arm64/AnyEncodable.o"
+  }
+}
