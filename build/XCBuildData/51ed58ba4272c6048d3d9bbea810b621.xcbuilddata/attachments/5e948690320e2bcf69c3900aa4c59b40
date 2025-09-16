@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master.d",
+    "diagnostics" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master.dia",
+    "emit-module-dependencies" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/examples-swift-master.swiftdeps"
+  },
+  "/Users/user/Desktop/projects/examples-swift/examples-swift/main.swift" : {
+    "index-unit-output-path" : "/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/main.o",
+    "llvm-bc" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/main.bc",
+    "object" : "/Users/user/Desktop/projects/examples-swift/build/examples-swift.build/Release/examples-swift.build/Objects-normal/x86_64/main.o"
+  }
+}
