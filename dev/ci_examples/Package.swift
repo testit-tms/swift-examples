@@ -15,7 +15,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "ci_examples",
-            targets: ["ci_examples", "ci_examplesTests"]),
+            targets: ["ci_examples"]),
     ],
     dependencies: [
         .package(url: "https://github.com/testit-tms/adapters-swift", from: "0.3.0")
@@ -35,7 +35,6 @@ let package = Package(
                 "ci_examples",
                 .product(name: "testit-adapters-swift", package: "adapters-swift")
             ],
-            path: "Tests"
         ),
     ]
 )
