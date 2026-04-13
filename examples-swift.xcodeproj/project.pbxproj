@@ -427,7 +427,7 @@
 			repositoryURL = "https://github.com/testit-tms/adapters-swift";
 			requirement = {
 				kind = upToNextMajorVersion;
-				version = 1.0.0-rc1;
+				minimumVersion = 1.0.0-rc1;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
