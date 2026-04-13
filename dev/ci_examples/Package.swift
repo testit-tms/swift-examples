@@ -18,7 +18,7 @@ let package = Package(
             targets: ["ci_examples"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/testit-tms/adapters-swift", from: "0.3.0")
+        .package(url: "https://github.com/testit-tms/adapters-swift", from: "1.0.0-rc1")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
